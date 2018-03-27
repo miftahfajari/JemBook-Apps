@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1039436399769",
+    "firebase_url": "https://jembook-584c0.firebaseio.com",
+    "project_id": "jembook-584c0",
+    "storage_bucket": "jembook-584c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039436399769:android:5286508d5a69b6b9",
+        "android_client_info": {
+          "package_name": "kelompok8.com.jembook_apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039436399769-e9jiop74serqblqptadvuj4j93v7ruht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kelompok8.com.jembook_apps",
+            "certificate_hash": "c312e9f33a6e6ad2f75beee553c8f2a2924802c1"
+          }
+        },
+        {
+          "client_id": "1039436399769-1fosnbc92kumd0cc9u6n7jgnhbsq5av3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoljIk1GcfLNhi6gw7SJ7Cau3DBlV7z6w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039436399769-1fosnbc92kumd0cc9u6n7jgnhbsq5av3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
