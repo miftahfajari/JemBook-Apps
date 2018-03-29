@@ -29,7 +29,7 @@ public class Splash extends AppCompatActivity {
         tv.startAnimation(myanim);
 
 
-        final Intent i = new Intent(Splash.this, Login.class);
+        final Intent i = new Intent(Splash.this, tambahBuku.class);
 
         Thread timer = new Thread() {
             public void run() {

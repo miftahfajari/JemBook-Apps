@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Jembook-Apps</string>
+    <array name="genres">
+        <item name="Pendikan">Pendikan</item>
+        <item name="Fiksi">Fiksi</item>
+        <item name="Komputer">Komputer</item>
+        <item name="Misteri">Misteri</item>
+        <item name="Kuliah">Kuliah</item>
+    </array>
 </resources>
