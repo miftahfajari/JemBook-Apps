@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JembookApps.iml" filepath="$PROJECT_DIR$/JembookApps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Jembook-Apps.iml" filepath="$PROJECT_DIR$/.idea/Jembook-Apps.iml" />
+      <module fileurl="file://B:\Jembook-Apps\JembookApps.iml" filepath="B:\Jembook-Apps\JembookApps.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
