@@ -20,8 +20,8 @@
         android:layout_alignStart="@+id/spinnerGenres"
         android:layout_marginTop="35dp"
         android:ems="10"
-        android:inputType="textPersonName"
-        android:text="Judul Buku" />
+        android:hint="@string/judul"
+        android:inputType="textPersonName" />
 
     <Spinner
         android:id="@+id/spinnerGenres"
@@ -31,7 +31,7 @@
         android:layout_alignStart="@+id/penulis"
         android:layout_below="@+id/penulis"
         android:layout_marginTop="13dp"
-        android:entries="@array/genres"/>
+        android:entries="@array/genres" />
 
     <EditText
         android:id="@+id/penulis"
@@ -40,8 +40,8 @@
         android:layout_below="@+id/judul"
         android:layout_centerHorizontal="true"
         android:ems="10"
-        android:inputType="textPersonName"
-        android:text="Penulis" />
+        android:hint="@string/penulis"
+        android:inputType="textPersonName" />
 
     <Button
         android:id="@+id/buttonTambah"
@@ -50,6 +50,6 @@
         android:layout_below="@+id/spinnerGenres"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="17dp"
-        android:text="Tambah" />
+        android:text="@string/tambah" />
 
 </RelativeLayout>

@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">Jembook-Apps</string>
+    <string name="tambah">Tambah</string>
+    <string name="penulis">Penulis</string>
+    <string name="judul">Judul Buku</string>
     <array name="genres">
         <item name="Pendikan">Pendikan</item>
         <item name="Fiksi">Fiksi</item>

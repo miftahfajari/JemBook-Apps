@@ -39,7 +39,7 @@ public class tambahBuku extends AppCompatActivity {
         buttonTambah.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
+                addBuku();
             }
         });
     }
