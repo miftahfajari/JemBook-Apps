@@ -24,9 +24,9 @@
             android:layout_height="wrap_content"
             android:layout_below="@+id/logo"
             android:layout_marginTop="10dp"
-            android:text="Apps for book a book"
+            android:text="Aplikasi peminjaman buku"
             android:textAlignment="center"
-            android:textSize="30sp"
+            android:textSize="20sp"
             android:textStyle="bold" />
 
     </LinearLayout>

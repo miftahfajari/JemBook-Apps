@@ -4,12 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="kelompok8.com.jembook_apps.Home">
-
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:onClick="signOut"
-        android:text="signOut"/>
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="kelompok8.com.jembook_apps.Navigasi"
+    tools:showIn="@layout/app_bar_navigasi">
 
 </android.support.constraint.ConstraintLayout>
