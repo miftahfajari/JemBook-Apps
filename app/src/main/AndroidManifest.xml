@@ -19,7 +19,13 @@
             </intent-filter>
         </activity>
         <activity android:name=".Login" />
-        <activity android:name=".Home"></activity>
+        <activity
+            android:name=".Navigasi"
+            android:label="@string/title_activity_navigasi"
+            android:theme="@style/AppTheme.NoActionBar">
+
+        </activity>
+
     </application>
 
 </manifest>
